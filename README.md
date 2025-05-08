@@ -4,6 +4,9 @@
 
 ![Banner do Projeto](banner.png)
 
+> ⚠️ Este projeto não contém dados reais da empresa. Toda informação sensível foi removida antes da publicação.
+
+---
 
 ## 🔖 Visão Geral
 
