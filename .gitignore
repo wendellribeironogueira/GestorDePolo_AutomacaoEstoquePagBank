@@ -1,0 +1,32 @@
+
+# .gitignore para projeto Excel VBA
+
+# Ignorar arquivos temporários e de backup
+*.tmp
+*.bak
+*.backup
+
+# Ignorar arquivos de sistema do Office
+~$*
+*.lock
+
+# Ignorar arquivos compilados de VBA
+*.exd
+
+# Ignorar diretórios de cache
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de Excel com dados sensíveis
+*.xlsm
+*.xlsb
+*.xlsx
+*.csv
+
+# Permitir os códigos exportados manualmente
+!*.bas
+
+# Permitir arquivos de documentação
+!README.md
+!*.md
